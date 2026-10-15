@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "SAPRI Gestión Preventiva",
+  "short_name": "SAPRI HSEC",
+  "lang": "es-CL",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./sapri-icono.svg?v=20261015",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./sapri-logo-blanco.png?v=20261015",
+      "sizes": "1448x1086",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
